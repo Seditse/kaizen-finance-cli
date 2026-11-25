@@ -1,0 +1,12 @@
+[
+    {
+        "type": "income",
+        "description": "Allowance",
+        "amount": 2000.0
+    },
+    {
+        "type": "expense",
+        "description": "Groceries",
+        "amount": 350.0
+    }
+]
