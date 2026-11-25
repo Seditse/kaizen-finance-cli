@@ -1,1 +1,0 @@
-# kaizen-finance-cli
